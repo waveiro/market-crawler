@@ -26,7 +26,7 @@ const path = require('path');
 
                 const productElements = await page.$$('[itemtype="https://schema.org/Product"]');
 
-                if (productElements.length === 0) break;
+                if (productElements.length === 0 || pageNumber === 2) break;
 
                 for (const productElement of productElements) {
                     const {product, offer, html} = await extractMicrodata(page, productElement);
@@ -51,8 +51,7 @@ const path = require('path');
 
                 await browser.close();
             }
-
-            await fs.writeFile(`${subcategory.path}.json`, JSON.stringify({
+            await fs.writeFile(path.join(__dirname,'export', `${subcategory.path}.json`), JSON.stringify({
                 products
             }));
         }
