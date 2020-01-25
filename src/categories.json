@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Alimentos básicos",
+    "subcategories": [
+      {
+        "name": "Arroz e grãos",
+        "path": "arroz-e-graos"
+      },
+      {
+        "name": "Azeites, óleos e vinagres",
+        "path": "oleos-azeites-e-vinagres"
+      },
+      {
+        "name": "Conservas e enlatados",
+        "path": "conservas-e-enlatados"
+      },
+      {
+        "name": "Doces, sobremesas e confeitaria",
+        "path": "doces-sobremesas-e-confeitaria"
+      },
+      {
+        "name": "Infantil",
+        "path": "alimentos-infantis"
+      },
+      {
+        "name": "Massas e molhos",
+        "path": "massas-e-molhos"
+      },
+      {
+        "name": "Temperos e condimentos",
+        "path": "temperos-e-condimentos"
+      }
+    ]
+  },
+  {
+    "name": "Bebidas",
+    "subcategories": [
+      {
+        "name": "Água e água de coco",
+        "path": "agua-e-agua-de-coco"
+      },
+      {
+        "name": "Cerveja",
+        "path": "cervejas"
+      },
+      {
+        "name": "Sucos e refrescos",
+        "path": "sucos-e-refrescos"
+      },
+      {
+        "name": "Vinhos e espumantes",
+        "path": "vinhos-e-espumantes"
+      },
+      {
+        "name": "Whisky",
+        "path": "whisky"
+      }
+    ]
+  },
+  {
+    "name": "Frescos e refrigerados",
+    "subcategories": [
+      {
+        "name": "Carnes, aves e peixe",
+        "path": "carnes-aves-e-peixes"
+      },
+      {
+        "name": "Congelados",
+        "path": "congelados"
+      },
+      {
+        "name": "Frutas",
+        "path": "frutas"
+      },
+      {
+        "name": "Ovos",
+        "path": "ovos"
+      },
+      {
+        "name": "Pratos prontos",
+        "path": "pratos-prontos"
+      },
+      {
+        "name": "Queijos e frios",
+        "path": "queijos-e-frios"
+      },
+      {
+        "name": "Verduras e legumes",
+        "path": "verduras-e-legumes"
+      }
+    ]
+  },
+  {
+    "name": "Limpeza e perfumaria",
+    "subcategories": [
+      {
+        "name": "Cuidado com as roupas",
+        "path": "cuidados-com-as-roupas"
+      },
+      {
+        "name": "Descartáveis",
+        "path": "descartaveis"
+      },
+      {
+        "name": "Higiene bucal",
+        "path": "higiene-bucal"
+      },
+      {
+        "name": "Limpeza da casa",
+        "path": "produtos-de-limpeza"
+      },
+      {
+        "name": "Papel higiênico",
+        "path": "papel-higienico"
+      }
+    ]
+  },
+  {
+    "name": "Matinais",
+    "subcategories": [
+      {
+        "name": "Achocolatados",
+        "path": "achocolatados-e-shakes"
+      },
+      {
+        "name": "Biscoitos e cereais",
+        "path": "biscoitos-e-cereais"
+      },
+      {
+        "name": "Café e cereais",
+        "path": "cafe-e-cha"
+      },
+      {
+        "name": "Farinhas, aveia e mingau",
+        "path": "farinhas-aveia-e-mingau"
+      },
+      {
+        "name": "Iorgutes e laticinios",
+        "path": "iogurtes-e-laticinios"
+      },
+      {
+        "name": "Leite",
+        "path": "leite"
+      },
+      {
+        "name": "Pães, torradas e bolos",
+        "path": "paes-torradas-e-bolos"
+      }
+    ]
+  },
+  {
+    "name": "Saudáveis",
+    "subcategories": [
+      {
+        "name": "Integrais",
+        "path": "alimentos-integrais"
+      },
+      {
+        "name": "Orgânicos",
+        "path": "alimentos-organicos"
+      },
+      {
+        "name": "Sem antibiótico",
+        "path": "alimentos-sem-antibiotico"
+      },
+      {
+        "name": "Sem glúten",
+        "path": "alimentos-sem-gluten"
+      },
+      {
+        "name": "Sem lactose",
+        "path": "cf-promo-sem-lactose"
+      },
+      {
+        "name": "Zero",
+        "path": "alimentos-light-e-diet"
+      },
+      {
+        "name": "Sementes",
+        "path": "sementes"
+      }
+    ]
+  }
+]

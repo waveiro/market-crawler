@@ -1,0 +1,20 @@
+{
+  "name": "market-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "node-microdata-scraper": "0.0.5",
+    "playwright": "^0.9.21",
+    "puppeteer": "^2.0.0"
+  }
+}
